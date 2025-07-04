@@ -145,7 +145,3 @@ For advanced configuration options, you can modify the `esp32-config.js` file in
 - Sensor thresholds
 - Heartbeat intervals
 - Emergency alert settings
-
-## Support
-
-If you encounter any issues or have questions about the setup, please contact our support team or refer to the documentation for more detailed information. 
