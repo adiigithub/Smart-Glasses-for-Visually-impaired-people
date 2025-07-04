@@ -19,7 +19,7 @@ const char* password = "12345678"; // PUT YOUR ACTUAL WIFI PASSWORD HERE
 
 // API endpoint - UPDATE WITH YOUR COMPUTER'S ACTUAL IP ADDRESS
 // Run 'ipconfig' on Windows or 'ifconfig' on Mac/Linux to find your IP
-const char* apiEndpoint = "http://192.168.1.6:5000/api/v1/esp32";  // CORRECTED ENDPOINT FOR ESP32 DEVICE
+const char* apiEndpoint = "http://Your_Computer_IP_Address:5000/api/v1/esp32";  // CORRECTED ENDPOINT FOR ESP32 DEVICE
 
 // ======= DEBUG MODE =======
 const bool DEBUG_MODE = true;  // Set to true for detailed diagnostics
