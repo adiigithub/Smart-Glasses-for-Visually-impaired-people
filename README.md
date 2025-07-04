@@ -140,7 +140,3 @@ This project includes simulated sensor data for development and testing. In a re
 3. A button for emergency alerts
 
 The ESP32 would then send data to the backend API endpoints.
-
-## License
-
-MIT 
